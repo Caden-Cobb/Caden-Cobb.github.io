@@ -6,6 +6,8 @@ h1{
     border-width: 10px;
     border-bottom: dotted; 
     border-width: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 
 }
@@ -15,5 +17,9 @@ button:hover{
    background-color: green;
 }
 button{
-    background-color: red;
+    margin-top: 10px;
+    color: whitesmoke;
+    background-color: black
+    
+
 }
