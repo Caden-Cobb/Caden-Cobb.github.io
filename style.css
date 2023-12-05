@@ -1,36 +1,33 @@
-h1{
-    font-family: "Press start 2P";
-    border-left: dotted;
-    border-width: 10px;
-    border-right: dotted;
-    border-width: 10px;
-    border-bottom: dotted; 
-    border-width: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-
-
+h1 {
+  font-family: "Press start 2P";
+  border-left: dotted;
+  border-width: 10px;
+  border-right: dotted;
+  border-width: 10px;
+  border-bottom: dotted;
+  border-width: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
-button:hover{
-
-   background-color: green;
+button:hover {
+  background-color: green;
 }
-button{
-    margin-top: 10px;
-    color: whitesmoke;
-    background-color: black
-    
-
+button {
+  margin-top: 10px;
+  color: whitesmoke;
+  background-color: black;
 }
-p{
-    margin-right: 300px;
-    margin-left: 5px;
-    color: rgb(10, 255, 10);
+p {
+  margin-right: 300px;
+  margin-left: 5px;
+  color: rgb(10, 255, 10);
 }
-h2{
-    margin-top: 8%;
-    margin-left: 5px;
-    color: rgb(0, 255, 251)
+h2 {
+  margin-top: 8%;
+  margin-left: 5px;
+  color: rgb(0, 255, 251);
 }
-
+h3 {
+  color: blueviolet;
+}
