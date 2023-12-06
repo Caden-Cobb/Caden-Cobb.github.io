@@ -31,3 +31,11 @@ h2 {
 h3 {
   color: blueviolet;
 }
+
+a:hover {
+  color: aliceblue;
+}
+
+a:visited {
+  color: black;
+}
